@@ -8,6 +8,11 @@ public class Test {
     private String git;
 
     private int ids;
-    System.out.println("这是下载的");
+
+    public static void main(String[] args) {
+        System.out.println("这是下载的");
+
+        System.out.println("zhe s shangchuan");
+    }
 
 }
