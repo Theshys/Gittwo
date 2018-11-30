@@ -8,5 +8,6 @@ public class Test {
     private String git;
 
     private int ids;
+    System.out.println("这是下载的");
 
 }
